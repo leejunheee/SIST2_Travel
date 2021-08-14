@@ -83,12 +83,12 @@ Calander, Draggable, Sorttable
 ## Review
   
 ## implementation screen 
-![impl1](./img/impl1.png)
+  <img src="./img/img1.png" width="800px" height="600px"></img>
+  <img src="./img/img2.png" width="800px" height="600px"></img>
+  <img src="./img/img3.png" width="400px" height="300px"></img>
+  <img src="./img/img4.png" width="400px" height="300px"></img>
+  <img src="./img/img5.png" width="800px" height="100px"></img>
+  <img src="./img/img6.png" width="800px" height="100px"></img>
+  <img src="./img/img7.png" width="300px" height="400px"></img>
+        
 
-![impl2](./img/impl2.png)
-
-![impl3](./img/impl3.png)
-
-![impl3](./img/impl4.png)
-
-![impl3](./img/impl5.png)
